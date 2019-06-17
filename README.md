@@ -1,0 +1,2 @@
+# andri
+SC termux
